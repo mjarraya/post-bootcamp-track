@@ -6,7 +6,8 @@ Node.js comes with [modules that are built-in](https://nodejs.org/docs/latest-v1
 
 ### readline
 
-[Accept input from the command line in Node](https://flaviocopes.com/node-input-from-cli/)  
+[Accept input from the command line in Node.js](https://flaviocopes.com/node-input-from-cli/)  
+[Reading a file line by line in Node.js](https://stackabuse.com/reading-a-file-line-by-line-in-node-js/)
 
 ### fs
 
