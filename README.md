@@ -8,11 +8,11 @@ You will also find at the end a section dedicated to job search and interview pr
 
 ## Structure
 
-- Developer Toolkit
-  - shell
-  - git
-  - linters and style guides
-  - debug with VSCode
+- [Developer Toolkit](https://github.com/mjarraya/post-bootcamp-track/blob/master/developer-toolkit.md)
+  - [shell](https://github.com/mjarraya/post-bootcamp-track/blob/master/developer-toolkit.md#shell)
+  - [git](https://github.com/mjarraya/post-bootcamp-track/blob/master/developer-toolkit.md#git)
+  - [linters and style guides](https://github.com/mjarraya/post-bootcamp-track/blob/master/developer-toolkit.md#linters-and-style-guides)
+  - [debug with VSCode](https://github.com/mjarraya/post-bootcamp-track/blob/master/developer-toolkit.md#debug-with-vscode)
 
 - JavaScript
   - ES6 features
