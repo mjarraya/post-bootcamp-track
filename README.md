@@ -15,11 +15,10 @@ You will also find at the end a section dedicated to job search and interview pr
   - [debug with VSCode](https://github.com/mjarraya/post-bootcamp-track/blob/master/developer-toolkit.md#debug-with-vscode)
 
 - JavaScript
-  - ES6 features
-    - async / await
-    - generators
-  - Design patterns
-  - TypeScript
+  - [Modern ES Features](https://github.com/mjarraya/post-bootcamp-track/blob/master/javascript.md#modern-features)
+    - [async / await](https://github.com/mjarraya/post-bootcamp-track/blob/master/javascript.md#asyncawait-es7)
+    - [iterators and generators](https://github.com/mjarraya/post-bootcamp-track/blob/master/javascript.md#iterators-and-generators-es6)
+  - [TypeScript](https://github.com/mjarraya/post-bootcamp-track/blob/master/javascript.md#typescript)
 
 - Node.js
   - Built-in modules
