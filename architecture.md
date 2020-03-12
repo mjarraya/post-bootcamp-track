@@ -26,12 +26,14 @@ If our application necessitates realtime, for example a game, chat or notificati
 The React apps we built (with create-react-app) can be labeled as client-side rendered (CSR). When we make the initial request, we receive a response as an almost empty HTML file and proceed to download our React application. Two main drawbacks stem from this method: first, until the React application is downloaded, the browser isn't displaying anything (remember the HTML that we get from the initial request is almost empty), and because the rendering happens when we've finished downloading the React app, there is nothing for search engines crawlers to index, and the app will perform poorly in terms of SEO.  
 Another method is to generate the rendered page on the server, and that is called server-side rendering (or SSR).  
 
-![SSR perfromance benefit](https://miro.medium.com/max/4465/1*CRiH0hUGoS3aoZaIY4H2yg.png)
+![SSR performance benefit](https://miro.medium.com/max/4465/1*CRiH0hUGoS3aoZaIY4H2yg.png)
 [The Benefits of SSR over CSR by Walmart Labs](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)  
 
 ## Gatsby
 
-Gatsby.js is a react framework that is meant to be a static site / progressive web app generation. It's very intuitive and a great way to also start dipping your toes into the world of GraphQL. It's Server Side Generated at build time. Which means that it pre-fetches all the necessary data when the website builds.
+Gatsby.js is a React framework that is meant to be a static site / progressive web app generator. It's very intuitive and a great way to also start dipping your toes into the world of GraphQL. It's Server Side Generated at build time. Which means that it pre-fetches all the necessary data when the website builds.
+
+[gatsby.js](https://www.gatsbyjs.org)
 
 ## Next
 
@@ -46,5 +48,3 @@ Next.js is a React framework whose main features are server rendering and static
 Nuxt.js is the same but for [Vue.js](https://vuejs.org/).
 
 [Nuxt.js](https://nuxtjs.org/)  
-
-
