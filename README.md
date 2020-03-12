@@ -56,7 +56,7 @@ You will also find at the end a section dedicated to job search and interview pr
     - [MobX](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#mobx)
   - [Testing](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#testing)
 
-- Open Source
+- [Open Source](https://github.com/mjarraya/post-bootcamp-track/blob/master/opensource.md)
 
 - Job Search
   - Platforms
