@@ -29,6 +29,10 @@ Another method is to generate the rendered page on the server, and that is calle
 ![SSR perfromance benefit](https://miro.medium.com/max/4465/1*CRiH0hUGoS3aoZaIY4H2yg.png)
 [The Benefits of SSR over CSR by Walmart Labs](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)  
 
+## Gatsby
+
+Gatsby.js is a react framework that is meant to be a static site / progressive web app generation. It's very intuitive and a great way to also start dipping your toes into the world of GraphQL. It's Server Side Generated at build time. Which means that it pre-fetches all the necessary data when the website builds.
+
 ## Next
 
 Next.js is a React framework whose main features are server rendering and static site generation (see this post about the [JAMstack](https://snipcart.com/blog/jamstack)).
@@ -42,3 +46,5 @@ Next.js is a React framework whose main features are server rendering and static
 Nuxt.js is the same but for [Vue.js](https://vuejs.org/).
 
 [Nuxt.js](https://nuxtjs.org/)  
+
+
