@@ -56,3 +56,14 @@ MobX offer a different approach, more object-oriented than Redux's functional ap
 [common testing patterns](https://reactjs.org/docs/testing-recipes.html)  
 [snapshot testing with Jest](https://jestjs.io/docs/en/tutorial-react)  
 [How to test React with Jest and Enzyme](https://www.robinwieruch.de/react-testing-jest-enzyme)  
+
+## React Native
+
+[Mobile app development approaches explained](https://railsware.com/blog/native-vs-hybrid-vs-cross-platform/)  
+
+React Native is a popular option (especially for JavaScript developers) to build mobile apps as, being a cross platform framework, it doesn't necessitate to be proficient in Swift/Objective-C (iOS) and Java/Kotlin (Android) to build an app that's supported by all smartphones.
+
+[the docs](https://reactnative.dev)  
+[A Definitive React-Native Guide for React Developers](https://blog.risingstack.com/a-definitive-react-native-guide-for-react-developers/)  
+[React Native examples](https://reactnativeexample.com/)  
+[CS50 React Native Course](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)  
