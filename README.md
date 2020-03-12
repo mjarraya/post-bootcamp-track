@@ -39,11 +39,9 @@ You will also find at the end a section dedicated to job search and interview pr
     - [Nuxt](https://github.com/mjarraya/post-bootcamp-track/blob/master/architecture.md#nuxt)
 
 - Databases
-  - SQL
-    - postgresql
-  - Graph
-    - Arango
-    - Neo4j
+  - redis
+  - postgresql
+  - graph databases
 
 - Testing
 
