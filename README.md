@@ -27,7 +27,7 @@ You will also find at the end a section dedicated to job search and interview pr
     - [exercise](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#exercise)
   - [PM2](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#pm2)
   - [More server frameworks](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#more-server-frameworks)
-  - [Publish your own package](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#more-server-frameworks)
+  - [Publish your own package](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#publish-your-own-package)
 
 - [Accessibility](https://github.com/mjarraya/post-bootcamp-track/blob/master/accessibility.md)
 
@@ -55,13 +55,6 @@ You will also find at the end a section dedicated to job search and interview pr
     - [redux](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#redux)
     - [MobX](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#mobx)
   - [Testing](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#testing)
-
-- More frontend frameworks and libraries
-  - React Native
-  - VueJS
-  - Angular
-  - Electron
-  - D3
 
 - Open Source
 
