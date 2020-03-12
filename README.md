@@ -5,7 +5,8 @@
 In this repo you will find learning materials to broaden your horizon and have a deeper understanding of the modern web development ecosystem.  
 Some of the sections will extend on what we have already covered during the bootcamp, others will simply give you a new outlook on how to tackle certain problems (that might not have arisen so far in your journey). The goal is not to be proficient with everything listed here, but simply to be aware and have a reference point to get started. Think of some of it as extra-content if the bootcamp was longer. Also, there is no particular order.  
 You will find at the end a section dedicated to job search and interview practice.  
-Feel free to participate by forking this repo and opening a pull request!  
+
+Feel free to participate by forking this repo and opening a [pull request](https://github.com/mjarraya/post-bootcamp-track/pulls)!  
 
 ## Structure
 
