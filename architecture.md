@@ -8,6 +8,7 @@ As you can imagine, there are other approaches, aiming to tackle different probl
 GraphQL was engineered at facebook to answer the following problem: say you have a desktop app and a mobile app, both communicating with a server to retrieve data. And we'll assume that the desktop app requires more data from the server than the mobile app (because it can afford to display more content). This means that on requests that are made by the mobile app, a lot of data is unused.  
 Instead of duplicating all endpoints (for every version of your application), graphQL will, over a single endpoint, retrieve data based on the fields in the query. Problem solved: you only request the information that you need.  
 
+[graphql.org](https://graphql.org/)  
 [GraphQL: The Documentary via Honeypot](https://www.youtube.com/watch?v=783ccP__No8)  
 [A Guide to GraphQL in Plain English on freeCodeCamp](https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-60e43b0a41f5/)  
 [howtographql](https://www.howtographql.com/)  

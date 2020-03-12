@@ -43,20 +43,18 @@ You will also find at the end a section dedicated to job search and interview pr
   - [postgresql](https://github.com/mjarraya/post-bootcamp-track/blob/master/databases.md#postgresql)
   - [graph databases](https://github.com/mjarraya/post-bootcamp-track/blob/master/databases.md#graph-databases)
 
-- Testing
-
-- React
-  - Hooks
-  - Context
-  - CSS
-    - CSS modules
-    - styled components
-  - PropTypes
-  - Code Splitting
-  - Suspense for data fetching
-  - State management
-    - redux
-    - mobx
+- [React](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md)
+  - [Hooks](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#hooks)
+  - [Context](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#context)
+  - [Styling](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#styling)
+    - [CSS modules](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#css-modules)
+    - [styled components](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#styled-components)
+  - [PropTypes](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#proptypes)
+  - [Code Splitting](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#code-splitting)
+  - [State management libraries](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#state-management-libraries)
+    - [redux](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#redux)
+    - [MobX](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#mobx)
+  - [Testing](https://github.com/mjarraya/post-bootcamp-track/blob/master/react.md#testing)
 
 - More frontend frameworks and libraries
   - React Native
