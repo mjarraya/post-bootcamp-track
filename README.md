@@ -35,8 +35,8 @@ You will also find at the end a section dedicated to job search and interview pr
   - [GraphQL](https://github.com/mjarraya/post-bootcamp-track/blob/master/architecture.md#graphql)
   - [WebSockets](https://github.com/mjarraya/post-bootcamp-track/blob/master/architecture.md#websockets)
   - [Server-side rendering](https://github.com/mjarraya/post-bootcamp-track/blob/master/architecture.md#server-side-rendering)
-    - [Gatsby](https://github.com/itstheandre/post-bootcamp-track/blob/master/architecture.md#gatsby)
-    - [Next](https://github.com/itstheandre/post-bootcamp-track/blob/master/architecture.md#next)
+    - [Gatsby](https://github.com/mjarraya/post-bootcamp-track/blob/master/architecture.md#gatsby)
+    - [Next](https://github.com/mjarraya/post-bootcamp-track/blob/master/architecture.md#next)
     - [Nuxt](https://github.com/mjarraya/post-bootcamp-track/blob/master/architecture.md#nuxt)
 
 - [Databases](https://github.com/mjarraya/post-bootcamp-track/blob/master/databases.md)
