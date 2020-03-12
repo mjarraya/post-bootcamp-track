@@ -56,4 +56,3 @@ MobX offer a different approach, more object-oriented than Redux's functional ap
 [common testing patterns](https://reactjs.org/docs/testing-recipes.html)  
 [snapshot testing with Jest](https://jestjs.io/docs/en/tutorial-react)  
 [How to test React with Jest and Enzyme](https://www.robinwieruch.de/react-testing-jest-enzyme)  
-
