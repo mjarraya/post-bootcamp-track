@@ -26,5 +26,3 @@ Another type of databases that performs really well when relationships between e
 [Definition and example](https://neo4j.com/blog/why-graph-databases-are-the-future/#definition)  
 [neo4j](https://neo4j.com/)  
 [ArangoDB](https://www.arangodb.com/)  
-
-
