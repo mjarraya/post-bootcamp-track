@@ -58,12 +58,11 @@ You will also find at the end a section dedicated to job search and interview pr
 
 - [Open Source](https://github.com/mjarraya/post-bootcamp-track/blob/master/opensource.md)
 
-- Job Search
-  - Platforms
-  - Code challenges
-    - hackerrank
-    - leetcode
-    - kattis
-  - Common questions  
+- [Job Search](https://github.com/mjarraya/post-bootcamp-track/blob/master/jobsearch.md)
+  - [Platforms](https://github.com/mjarraya/post-bootcamp-track/blob/master/jobsearch.md#platforms)
+    - [Remote](https://github.com/mjarraya/post-bootcamp-track/blob/master/jobsearch.md#remote)
+    - [Freelance platforms](https://github.com/mjarraya/post-bootcamp-track/blob/master/jobsearch.md#freelance-platforms)
+  - [Code challenges](https://github.com/mjarraya/post-bootcamp-track/blob/master/jobsearch.md#code-challenges)
+  - [Common questions](https://github.com/mjarraya/post-bootcamp-track/blob/master/jobsearch.md#common-questions)
 
 Feel free to participate by forking this repo and opening a pull request!  
