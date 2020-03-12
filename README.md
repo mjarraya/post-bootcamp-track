@@ -24,11 +24,12 @@ You will also find at the end a section dedicated to job search and interview pr
   - [Built-in modules](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#built-in-modules)
     - [readline](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#readline)
     - [fs](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#fs)
+    - [exercise](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#exercise)
   - [PM2](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#pm2)
   - [More server frameworks](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#more-server-frameworks)
   - [Publish your own package](https://github.com/mjarraya/post-bootcamp-track/blob/master/node.js.md#more-server-frameworks)
 
-- Accessibility
+- [Accessibility](https://github.com/mjarraya/post-bootcamp-track/blob/master/accessibility.md)
 
 - Architecture
   - GraphQL
