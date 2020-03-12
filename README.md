@@ -38,10 +38,10 @@ You will also find at the end a section dedicated to job search and interview pr
     - [Next](https://github.com/mjarraya/post-bootcamp-track/blob/master/architecture.md#next)
     - [Nuxt](https://github.com/mjarraya/post-bootcamp-track/blob/master/architecture.md#nuxt)
 
-- Databases
-  - redis
-  - postgresql
-  - graph databases
+- [Databases](https://github.com/mjarraya/post-bootcamp-track/blob/master/databases.md)
+  - [redis](https://github.com/mjarraya/post-bootcamp-track/blob/master/databases.md#redis)
+  - [postgresql](https://github.com/mjarraya/post-bootcamp-track/blob/master/databases.md#postgresql)
+  - [graph databases](https://github.com/mjarraya/post-bootcamp-track/blob/master/databases.md#graph-databases)
 
 - Testing
 
